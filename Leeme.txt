@@ -1,1 +1,1 @@
-Descomprimir el Launcher.zip en el mismo lugar donde se encuentre "Software CODE.bb"
+Descomprimir el Launcher.zip en el mismo lugar donde se encuentre "Software CODE.bb" y  la carpeta "AutoPlay". En el caso de sugerir reemplazo, aceptar.
